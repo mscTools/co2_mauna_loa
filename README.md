@@ -1,5 +1,11 @@
 # README: co2_mauna_loa
 
+_Author:_ Malte Scholz (msc)
+
+_First Public Commit:_ 2017-07-07
+
+_License:_ GPL-3.0
+
 Mauna Loa CO2-Time Series Data from:
 
 Dr. Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
