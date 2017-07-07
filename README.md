@@ -1,6 +1,15 @@
+# README: co2_mauna_loa
+
+Mauna Loa CO2-Time Series Data from:
+
+Dr. Pieter Tans, NOAA/ESRL (www.esrl.noaa.gov/gmd/ccgg/trends/) and Dr. Ralph Keeling, Scripps Institution of Oceanography (scrippsco2.ucsd.edu/).
+
+Oceanic Nino Index (ONI) Data from:
+
+NOAA / Climate Prediction Center. Seasonal ERSSTv4 (Centered Base Periods) Oceanic Nino Index (ONI) or the 3-Month Running Average in Nino 3.4. url: http://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt
+
+
 # Overview of Content:
-
-
 
 ### mlo_00_run_all:
 
