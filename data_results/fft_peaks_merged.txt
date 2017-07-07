@@ -1,0 +1,35 @@
+                               freq      bin  bins_total  period_yr  \
+mmlo_filtered_0-2_yr   3.175058e-08  17810.0    106800.0   0.999439   
+oeni_filtered_0-2_yr   2.146920e-08  13685.0    121350.0   1.477896   
+mmlo_filtered_2-3_yr   1.258613e-08   7060.0    106800.0   2.521246   
+oeni_filtered_2-3_yr   1.280308e-08   8161.0    121350.0   2.478250   
+mmlo_filtered_3-4_yr   8.714026e-09   4888.0    106800.0   3.641571   
+oeni_filtered_3-4_yr   8.807316e-09   5614.0    121350.0   3.602601   
+mmlo_filtered_4-6_yr   6.282371e-09   3524.0    106800.0   5.051078   
+oeni_filtered_4-6_yr   6.487041e-09   4135.0    121350.0   4.891173   
+mmlo_filtered_6-10_yr  3.766927e-09   2113.0    106800.0   8.424042   
+oeni_filtered_6-10_yr  4.882146e-09   3112.0    121350.0   6.499036   
+
+                              mag  mag_norm       amp  amp_norm       pha  \
+mmlo_filtered_0-2_yr   549.977305  1.000000  0.005150  1.000000 -0.736158   
+oeni_filtered_0-2_yr    37.336169  0.364126  0.000308  0.364126 -2.869452   
+mmlo_filtered_2-3_yr    22.479313  0.320462  0.000210  0.320462 -0.288646   
+oeni_filtered_2-3_yr    78.113928  0.759482  0.000644  0.759482 -1.034041   
+mmlo_filtered_3-4_yr    49.205628  0.701469  0.000461  0.701469 -1.845475   
+oeni_filtered_3-4_yr   102.851527  1.000000  0.000848  1.000000 -2.060808   
+mmlo_filtered_4-6_yr    32.056362  0.456992  0.000300  0.456992 -1.281097   
+oeni_filtered_4-6_yr    90.812016  0.882943  0.000748  0.882943  2.120646   
+mmlo_filtered_6-10_yr   70.146516  1.000000  0.000657  1.000000  1.623017   
+oeni_filtered_6-10_yr   36.586583  0.355722  0.000301  0.355722 -2.186986   
+
+                       pha_norm  
+mmlo_filtered_0-2_yr  -0.234328  
+oeni_filtered_0-2_yr  -0.913391  
+mmlo_filtered_2-3_yr  -0.091879  
+oeni_filtered_2-3_yr  -0.329151  
+mmlo_filtered_3-4_yr  -0.587433  
+oeni_filtered_3-4_yr  -0.655988  
+mmlo_filtered_4-6_yr  -0.407786  
+oeni_filtered_4-6_yr   0.675035  
+mmlo_filtered_6-10_yr  0.516622  
+oeni_filtered_6-10_yr -0.696152  

@@ -1,0 +1,17 @@
+           mmlo_nopad_nowin  mmlo_filtered_cut_a  oeni_nopad_nowin  \
+0-2_years          1.005650             0.999438          1.534091   
+2-3_years          2.282051             2.521634          2.934783   
+3-4_years          3.708333             3.641672          3.552632   
+4-6_years          5.393939             5.052587          4.821429   
+
+           oeni_filtered_cut_a  diff_nopad_nowin  diff_filtered_cut_a  \
+0-2_years             1.479031          0.528441             0.479594   
+2-3_years             2.492288          0.652731             0.029346   
+3-4_years             3.605477          0.155702             0.036195   
+4-6_years             4.917012          0.572511             0.135574   
+
+           mean_filtered_cut_a  
+0-2_years             1.239235  
+2-3_years             2.506961  
+3-4_years             3.623574  
+4-6_years             4.984800  

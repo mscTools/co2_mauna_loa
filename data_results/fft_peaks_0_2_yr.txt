@@ -1,0 +1,23 @@
+                                    freq      bin  bins_total  period_yr  \
+mmlo_nopad_nowin_0-2_yr     3.155447e-08     59.0       356.0   1.005650   
+mmlo_filtered_0-2_yr        3.175058e-08  17810.0    106800.0   0.999439   
+mmlo_filtered_cut_a_0-2_yr  3.175002e-08  17785.0    106650.0   0.999438   
+oeni_nopad_nowin_0-2_yr     2.070833e-08     44.0       405.0   1.534091   
+oeni_filtered_0-2_yr        2.146920e-08  13685.0    121350.0   1.477896   
+oeni_filtered_cut_a_0-2_yr  2.145469e-08  12018.0    106650.0   1.479031   
+
+                                   mag  mag_norm       amp  amp_norm  \
+mmlo_nopad_nowin_0-2_yr     809.299491  1.000000  2.273313  1.000000   
+mmlo_filtered_0-2_yr        549.977305  1.000000  0.005150  1.000000   
+mmlo_filtered_cut_a_0-2_yr  549.142827  1.000000  0.005149  1.000000   
+oeni_nopad_nowin_0-2_yr      60.973578  0.441319  0.150552  0.441319   
+oeni_filtered_0-2_yr         37.336169  0.364126  0.000308  0.364126   
+oeni_filtered_cut_a_0-2_yr   36.307084  0.392117  0.000340  0.392117   
+
+                                 pha  pha_norm  
+mmlo_nopad_nowin_0-2_yr     0.451450  0.143701  
+mmlo_filtered_0-2_yr       -0.736158 -0.234328  
+mmlo_filtered_cut_a_0-2_yr -0.735857 -0.234233  
+oeni_nopad_nowin_0-2_yr    -1.151750 -0.368166  
+oeni_filtered_0-2_yr       -2.869452 -0.913391  
+oeni_filtered_cut_a_0-2_yr  0.576240  0.183424  
